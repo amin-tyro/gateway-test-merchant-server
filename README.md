@@ -4,7 +4,7 @@ This is a sample application to help developers start building mobile applicatio
 ## Steps for running
 1. Obtain an account with your Gateway provider
 1. Register with [Heroku]
-1. Click this button [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+1. Click this button [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/amin-tyro/gateway-test-merchant-server)
 1. Configure the app with your merchant ID and API password
 1. Visit the landing page of the newly deployed app for more details
 
